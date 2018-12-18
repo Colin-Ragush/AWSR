@@ -32,7 +32,7 @@ AWS_PRFL="--profile default"
 
 # We do not set AWS_DEFAULT_REGION to prevent undesired interactions with AWS CLI
 # AWS ec2, s3, lambda and API gateway region. us-east-1 is US East (N. Virginia).
-AWS_REGION="us-east-1"
+AWS_REGION="us-east-2"
 
 
 # AWS IAM ----------------------------------------------------------------------
