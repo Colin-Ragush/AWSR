@@ -18,10 +18,10 @@
 
 # name of the project root directory, error if mismatch
 # use only letters, dashes, and digits, e.g. aws-lambda-r
-PRJ_NAME="$MISSING"
+PRJ_NAME="AWSR"
 
 # Name of the current Git branch, error if mismatch
-PRJ_BRANCH="$MISSING"
+PRJ_BRANCH="$AWSR"
 
 
 # AWS --------------------------------------------------------------------------
