@@ -182,10 +182,10 @@ IAM_SECRET_ACCESS_KEY="$MISSING"
 # A file with the same name (and with extension .pem) should have been downloaded 
 # from AWS to the dir ~/.ssh/
 # AWS > EC2 > Network and security > Key Pairs > Create Key Pair
-EC2_KEY_NAME="$MISSING"
+EC2_KEY_NAME="RinAWS.pem"
 
 # The dir where the above key file is located
-EC2_KEY_FILE="~/.ssh/${EC2_KEY_NAME}.pem"
+EC2_KEY_FILE="~/.aws/${EC2_KEY_NAME}.pem"
 
 # AWS > VPC > Subnets > (optional: Create Subnet)
 # If no VPC setup, see AWS > VPC > Your VPCs > Create VPC
