@@ -168,12 +168,12 @@ DEBUG="false"
 # (we use the IAM_ prefix to avoid exporting it locally by mistake)
 # Might be different than what is in AWS profile; will be used on EC2
 # If you use the came access on both local and EC2, copy from AWS CLI profile
-IAM_ACCESS_KEY_ID="AKIAJA5EXQN232YMY37Q "
+IAM_ACCESS_KEY_ID="AKIAIXMNUXJD3XFWVBXQ"
 
 # Secret Access Key corresponding to Access Key ID
 # Only available when the user has been created
 # If you use the came access on both local and EC2, copy from AWS CLI profile
-IAM_SECRET_ACCESS_KEY="$MISSING"
+IAM_SECRET_ACCESS_KEY="MyYPY5if/wdXBmnKolwCjmS+cVbIHfYrYr3piuZO"
 
 
 # AWS EC2 ----------------------------------------------------------------------
