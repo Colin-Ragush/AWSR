@@ -189,7 +189,7 @@ EC2_KEY_FILE="~/.aws/${EC2_KEY_NAME}.pem"
 
 # AWS > VPC > Subnets > (optional: Create Subnet)
 # If no VPC setup, see AWS > VPC > Your VPCs > Create VPC
-EC2_SUBNET_ID="subnet-$MISSING"
+EC2_SUBNET_ID="subnet-5bef8921"
 
 # The security group id to which the new instance will belong
 # AWS > EC2 > Network a& Security > Security Groups > Create Security Group
